@@ -1,0 +1,252 @@
+vboxuser@unbu:~/note$ history
+    1  ls
+    2  sudo apt update
+    3  su root
+    4  sudo apt update
+    5  clear
+    6  ps -e
+    7  sudo apt update
+    8  sudo apt install postgresql postgresql-contrib
+    9  sudo systemctl start postgresql.service
+   10  ps -e
+   11  reboot
+   12  postgres --version
+   13  sudo apt install postgresql postgresql-contrib
+   14  postgres --version
+   15  postgres -V
+   16  sudo systemctl start postgresql.service
+   17  local bin/postgres
+   18  sudo -u postgres psql
+   19  git --version
+   20  clear
+   21  sudo apt update
+   22  sudo apt install libz-dev libssl-dev libcurl14-gnutls-dev libexpat1-dev gettext cmake gcc
+   23  mkdir tmp
+   24  cd /tmp
+   25  apt-get install git
+   26  curl -o git.tar.gz https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.38.1.tar.gz
+   27  sudo snap install curl
+   28  curl -o git.tar.gz https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.38.1.tar.gz
+   29  tar -zxf git.tar.gz
+   30  ls
+   31  clear
+   32  git
+   33  sudo apt install git
+   34  git --version
+   35  clear
+   36  sudo apt install guake
+   37  clear
+   38  history
+   39  portgers -V
+   40  postgres -V
+   41  sudo apt install postgersql
+   42  sudo apt-get install wget ca-certificates
+   43  sudo apt-get update
+   44  sudo apt-get install postgresql postgresql-contrib
+   45  sudo systemctl status postgresql
+   46  ls
+   47  cd note
+   48  echo "getonthemay" hello.txt
+   49  ls
+   50  cat hello.txt
+   51  echo "getonthemay"> hello.txt
+   52  cat hello.txt
+   53  clear
+   54  quit
+   55  exit
+   56  history
+   57  cd note
+   58  history
+   59  clear
+   60  exit
+   61  cd note
+   62  git init
+   63  git init get.txt
+   64  exit
+   65  ls
+   66  get init note
+   67  git init notr
+   68  git init note
+   69  exit
+   70  cd note
+   71  vim hello.java
+   72  sudo apt install vim
+   73  vim hello.java
+   74  cd note
+   75  git status
+   76  git add test.html
+   77  git commit -"test" test.html
+   78  git status
+   79  clear
+   80  exit
+   81  cd note
+   82  git status
+   83  git rm --cached test.html
+   84  git status
+   85  git add test.html
+   86  git commit -"test" test.html
+   87  cd note
+   88  ls
+   89  rm test.html get.thml
+   90  rm test.html get.html
+   91  cd note
+   92  git status
+   93  delete test.html
+   94  git add get.htmk
+   95  git add get.html
+   96  git commit -m "test" get.html
+   97  git push -u origin master
+   98  echo "# get" >> README.md~
+   99  git init
+  100  git add README.md
+  101  git remote add origin https://github.com/Nhat-113/get.git
+  102  git branch -M main
+  103  git push -u origin main
+  104  clear
+  105  cd
+  106  git config --global user.name Nhat-113
+  107  git config --global user.email nhatvo1302@gmail.com 
+  108  git config --list
+  109  cd
+  110  cd note
+  111  ls
+  112  git status
+  113  git add get.html
+  114  git commit -m "test file" get.html
+  115  git branch -a~
+  116  git branch -a
+  117  git push Nhat-113 main
+  118  git push get main
+  119  cs ~/.ssh
+  120  cd ~/.ssh
+  121  clear
+  122  git config --global user.name "Nhat-113"
+  123  git config --global user.email "nhatvo1302@gmail.com"
+  124  cd note
+  125  git init
+  126  ls
+  127  git add get.html
+  128  git commit -m "test file" get.html
+  129  ssh keygen
+  130  ssh-keygen
+  131  cat ~/.ssh/id_rsa.pub
+  132  git remote origin git@github.com:Nhat-113/get.git
+  133  git remote main git@github.com:Nhat-113/get.git
+  134  git remote add origin git@github.com:Nhat-113/get.git
+  135  git remote -v
+  136  git push -u origin master
+  137  git push -u origin main
+  138  exit
+  139  cd note
+  140  git clone git@github.com:Nhat-113/DBA.git
+  141  ls
+  142  git clone git@github.com:atherosai/ui.git~
+  143  git clone git@github.com:atherosai/ui.git
+  144  ls
+  145  git status
+  146  git rm test.hmtl
+  147  git add DBA
+  148  git commit -m "test file on git" DBA
+  149  git remote add origin git@github.com:Nhat-113/testgit.git
+  150  git push -u origin master
+  151  git remove -v
+  152  git remote -v
+  153  git remote set-url origin git@github.com:Nhat-113/testgit.git
+  154  git push -u origin master
+  155  git branch
+  156  git push -u origin main
+  157  git branch master existing_branch
+  158  git branch master existing_branch
+  159  ls
+  160  echo "<hello>" >get.html
+  161  cat get.html
+  162  git add
+  163  git status
+  164  git push -u origin main
+  165  git commit -m "no" get.html
+  166  git push -u origin main
+  167  reset
+  168  ls
+  169  cat get.html
+  170  git status
+  171  git commit -m "finally" get.html
+  172  git push -u origin main
+  173  git diff
+  174  git diff --a/get.html
+  175  git diff stage
+  176  git diff staged
+  177  git diff --staged
+  178  git diff get.html
+  179  git diff --staged get.html
+  180  git branch
+  181  git branch -a
+  182  git branch -all
+  183  git branch -a
+  184  git status
+  185  git remote -v
+  186  git branch
+  187  git check out main
+  188  git checkout main
+  189  git branch -a
+  190  git checkout origin
+  191  git checkout main
+  192  reset
+  193  git init
+  194  git status
+  195  git branch switch
+  196  git branch -a
+  197  git remote origin switch
+  198  git remote add -t switch get.html
+  199  get checkout main
+  200  git checkout main
+  201  git branch
+  202  git log -oneline --decorate
+  203  git log -online --decorate
+  204  git log --oneline --decorate
+  205  git checkout origin/main
+  206  git switch -c switch
+  207  git branch come
+  208  git log --oneline --decorate
+  209  git branch
+  210  git checkout origin/main
+  211  git switch main
+  212  git merge come switch
+  213  git branch
+  214  git checkout main
+  215  git checkout origin/main
+  216  git switch come
+  217  git branch
+  218  git status
+  219  git commit -m "finally" get.html
+  220  git add get.txt
+  221  git branch
+  222  git push -u come get.txt
+  223  git push -u come
+  224  git commit -m "txt"
+  225  git push -u come
+  226  git remote -v
+  227  git push origin come
+  228  git branch
+  229  git checkout come
+  230  git checkout origin/come
+  231  git switch switch
+  232  git init
+  233  git status
+  234  git add 1234.txt
+  235  git branch
+  236  git push origin switch
+  237  git status
+  238  git commit 
+  239  git commit -m "nooo"
+  240  git push -u origin come
+  241  git push -u origin switch
+  242  git merge come switch
+  243  git push -a origin switch
+  244  git push -u origin switch
+  245  git checkout origin/ switch 
+  246  git branch
+  247  git checkout origin/switch
+  248  git switch main
+  249  clear
+  250  history
+
